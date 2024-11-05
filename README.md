@@ -23,7 +23,9 @@ Actualmente, estoy ampliando mis conocimientos para aprovechar al máximo las te
 
 ### 📂 Proyectos Destacados
 
-*Próximamente compartiré algunos de mis proyectos más interesantes. ¡Mantente al tanto!*
+- **[Movies-Plataforma](https://github.com/Lisandro85/Movies-Plataforma)**: Una aplicación que simula una plataforma de streaming de películas, construida con JavaScript, HTML, CSS, Bootstrap, Mongoose, MongoDB y Express.
+- **[Sistema de turnos resto-bar](https://github.com/Lisandro85/sistema-de-turnos-resto-bar)**:Una aplicación que gestiona los turnos en un resto-bar, construida con TypeScript, PostgreSQL, Express y React.
+- **[Ecommerce](https://github.com/Lisandro85/ecommerceDeploy)**: Una aplicación que proporciona la estructura de backend para un ecommerce, construida con NestJS, PostgreSQL, TypeScript y TypeORM.
 
 ---
 
