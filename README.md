@@ -1,26 +1,37 @@
+# 👋 ¡Hola! Soy Lisandro
+
+🇦🇷 Argentino viviendo en la hermosa isla de Cerdeña, Italia 🇮🇹.  
+Soy un apasionado del desarrollo web **backend**. Me encanta crear estructuras robustas y escalables, adaptadas a las necesidades de cada negocio y desafío que se presente. 🌐
+
+---
+
+### Sobre mí
+
+Actualmente, estoy ampliando mis conocimientos para aprovechar al máximo las tecnologías que he aprendido últimamente.  
+💻 Me apasiona el backend porque me permite reflejar mi estructura personal en el código, creando sistemas organizados, eficientes y adaptables. 🛠️
+
 ---
 
 ### 🚀 Habilidades y Tecnologías
 
-- **Lenguajes de Programación**:  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-- **Frameworks y Librerías**:  
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) 
-  ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-- **ORM y Bases de Datos**:  
-  ![TypeORM](https://img.shields.io/badge/TypeORM-FF5733?style=flat&logo=typeorm&logoColor=white) 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-- **Frontend**:  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **Lenguajes de Programación**: JavaScript, TypeScript
+- **Frameworks y Librerías**: NestJS, Express, React
+- **ORM y Bases de Datos**: TypeORM, PostgreSQL (mi fuerte 💪), MongoDB, Mongoose
+- **Frontend**: HTML, CSS
 
 ---
+
+### 📂 Proyectos Destacados
+
+*Próximamente compartiré algunos de mis proyectos más interesantes. ¡Mantente al tanto!*
+
+---
+
+### 🌐 Conéctate conmigo
+
+- 📧 Email: [lisandrobedotti@hotmail.com](mailto:lisandrobedotti@hotmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lisandro-bedotti-93733a299): Lisandro Bedotti
+
 
 
 
