@@ -17,7 +17,7 @@ Actualmente, estoy ampliando mis conocimientos para aprovechar al máximo las te
 - **Lenguajes de Programación**: JavaScript, TypeScript
 - **Frameworks y Librerías**: NestJS, Express, React
 - **ORM y Bases de Datos**: TypeORM, PostgreSQL (mi fuerte 💪), MongoDB, Mongoose
-- **Frontend**: HTML, CSS
+- **Frontend**: HTML, CSS, REACT
 
 ---
 
